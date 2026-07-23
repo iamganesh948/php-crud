@@ -20,3 +20,17 @@ This project demonstrates basic database operations and serves as a foundation f
 1. Clone the repository:
    ```bash
    git clone https://github.com/iamganesh948/php-crud.git
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/view.png)
+
+### Add Record Form
+![SAVE Record](screenshots/save.png)
+
+### Update Record Form
+![Delete Record](screenshots/delete.png)
+
+### View Records
+![View Records](screenshots/index.png)
