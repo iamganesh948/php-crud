@@ -1,0 +1,28 @@
+# Ignore environment and configuration files
+*.env
+*.ini
+*.log
+*.sql
+connection.php   # database connection file (contains credentials)
+
+# Ignore vendor folder if using Composer
+/vendor/
+
+# Ignore cache and session files
+*.cache
+*.session
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+ehthumbs.db
+Icon?
