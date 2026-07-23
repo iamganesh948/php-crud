@@ -1,4 +1,8 @@
 <?php include 'connection.php'; ?> 
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <a href="index.php">Home</a>
 <table border="1px" cellpadding="10px" cellspacing="0">
 	<tr>
@@ -30,7 +34,7 @@ if ($result) {
 	</td>
 </tr>
 <?php
-	}
+}	
 }
 else
 {
@@ -44,3 +48,4 @@ else
 }
 ?>
 </table>
+</head>

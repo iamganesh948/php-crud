@@ -1,4 +1,8 @@
-<?php include 'connection.php'; 
+<?php include 'connection.php'; ?>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head><?php
 $id=$_GET['id'];
 $select="SELECT * FROM student WHERE id='$id' ";
 $data=mysqli_query($con,$select);
@@ -40,4 +44,6 @@ if(isset($_POST['update_btn']))
     <?php
 	}
 }
+
 ?>
+</html>
