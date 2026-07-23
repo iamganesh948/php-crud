@@ -26,11 +26,23 @@ This project demonstrates basic database operations and serves as a foundation f
 ### Homepage
 ![Homepage](screenshots/view.png)
 
+### Homepage
+![Homepage](screenshots/view_new.png)
+
 ### Add Record Form
 ![SAVE Record](screenshots/save.png)
 
-### Update Record Form
+### Add Record Form
+![SAVE Record](screenshots/save_new.png)
+
+### Delete Record Form
 ![Delete Record](screenshots/delete.png)
 
 ### View Records
 ![View Records](screenshots/index.png)
+
+### View Record Form
+![View Record](screenshots/index_new.png)
+
+### View Records
+![View Records](screenshots/index_with_value.png)
